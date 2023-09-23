@@ -1,0 +1,12 @@
+G:\TestInterop_paola\TestInterop_paola\bin\Debug\TestInterop_paola.exe.config
+G:\TestInterop_paola\TestInterop_paola\bin\Debug\TestInterop_paola.exe
+G:\TestInterop_paola\TestInterop_paola\bin\Debug\TestInterop_paola.pdb
+G:\TestInterop_paola\TestInterop_paola\bin\Debug\TestInterop_paola.xml
+G:\TestInterop_paola\TestInterop_paola\obj\Debug\TestInterop_paola.vbprojAssemblyReference.cache
+G:\TestInterop_paola\TestInterop_paola\obj\Debug\TestInterop_paola.Form1.resources
+G:\TestInterop_paola\TestInterop_paola\obj\Debug\TestInterop_paola.Resources.resources
+G:\TestInterop_paola\TestInterop_paola\obj\Debug\TestInterop_paola.vbproj.GenerateResource.cache
+G:\TestInterop_paola\TestInterop_paola\obj\Debug\TestInterop_paola.vbproj.CoreCompileInputs.cache
+G:\TestInterop_paola\TestInterop_paola\obj\Debug\TestInterop_paola.exe
+G:\TestInterop_paola\TestInterop_paola\obj\Debug\TestInterop_paola.xml
+G:\TestInterop_paola\TestInterop_paola\obj\Debug\TestInterop_paola.pdb
